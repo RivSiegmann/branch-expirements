@@ -1,2 +1,1 @@
-# branch-expirements
-create a branch, make changes to it, then merge it back to the main branch
+# this readme.md is on the my new branch branch
